@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Job-listings-with-filtering/static/css/main.8da6f4dd.css",
+    "main.js": "/Job-listings-with-filtering/static/js/main.82dfd9f7.js",
+    "static/js/787.de66121c.chunk.js": "/Job-listings-with-filtering/static/js/787.de66121c.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Job-listings-with-filtering/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/Job-listings-with-filtering/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/Job-listings-with-filtering/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/Job-listings-with-filtering/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/Job-listings-with-filtering/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/Job-listings-with-filtering/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Job-listings-with-filtering/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Job-listings-with-filtering/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/Job-listings-with-filtering/index.html",
+    "main.8da6f4dd.css.map": "/Job-listings-with-filtering/static/css/main.8da6f4dd.css.map",
+    "main.82dfd9f7.js.map": "/Job-listings-with-filtering/static/js/main.82dfd9f7.js.map",
+    "787.de66121c.chunk.js.map": "/Job-listings-with-filtering/static/js/787.de66121c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da6f4dd.css",
+    "static/js/main.82dfd9f7.js"
+  ]
+}
